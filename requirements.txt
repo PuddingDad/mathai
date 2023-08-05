@@ -1,0 +1,3 @@
+jupyterlab==4.0.2
+jupyter_ai
+jupyter_ai_magics
